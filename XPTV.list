@@ -1,9 +1,19 @@
-DOMAIN-SUFFIX,dmzj.com,DIRECT // 动漫之家
-DOMAIN-SUFFIX,dm5.cn,DIRECT // 动漫屋
-DOMAIN-SUFFIX,gufengmh9.com,DIRECT // 古风漫画
-DOMAIN-SUFFIX,liumanhua.com,DIRECT // 六漫画
-DOMAIN-SUFFIX,yemancomic.com,DIRECT // 野蛮漫画
-DOMAIN-SUFFIX,mangacopy.com,DIRECT // 拷贝漫画
+#动漫之家
+DOMAIN-SUFFIX,dmzj.com
+#包子漫画
+DOMAIN-SUFFIX,baozimh.com
+#TANK服
+DOMAIN,a.tiangou.xyz
+#动漫屋
+DOMAIN-SUFFIX,dm5.cn
+#古风漫画
+DOMAIN-SUFFIX,gufengmh9.com
+#六漫画
+DOMAIN-SUFFIX,liumanhua.com
+#野蛮漫画
+DOMAIN-SUFFIX,yemancomic.com
+#拷贝漫画
+DOMAIN-SUFFIX,mangacopy.com
 #三角播放器
 DOMAIN-SUFFIX,movie.douban.com
 DOMAIN-SUFFIX,mddcloud.com.cn
